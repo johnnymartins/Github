@@ -115,3 +115,4 @@ while True: # inicia o programa com o menu principal estando num laço infinito
 # principal, recebe a mensagem abaixo e continua no laço
     print('Você escolheu uma opção inexistente.')
     continue
+
